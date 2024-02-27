@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+
+.main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    background-image: linear-gradient(45deg, black, rgb(12, 3, 66) );    
+    flex-direction: column;
+ }
+ .text{
+     font-size: 45px;
+     color: crimson;
+     margin-bottom: 30px;
+ }
+ .paragrafo{
+     color: #961010;
+     margin-bottom: 50px;
+     font-size: 25px;
+ }
+
+ a {
+    color: crimson;
+    border: 1px solid rgb(37, 4, 223);
+    
+ }
